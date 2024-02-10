@@ -10,6 +10,7 @@ function App() {
     <>
       <div>
         <h1>Git Hub Test</h1>
+        <h1>Hello world</h1>
       </div>
     </>
   );
